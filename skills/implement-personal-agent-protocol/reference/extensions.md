@@ -22,6 +22,7 @@ The rules are in [the specification's Extensions section](https://personalagentp
 | --- | --- | --- |
 | [`operations`](https://personalagentprotocol.org/docs/0.3/extensions/operations) | 2 | The personal agent gets the user's approval of exact terms and retries the request with it. Retries never perform the action twice. |
 | [`mediated-sign-in`](https://personalagentprotocol.org/docs/0.3/extensions/mediated-sign-in) | 1 | Transitional. The personal agent signs in with credentials the user gave it, at a company that doesn't offer Direct or Device Sign-In yet. |
+| [`ucp`](https://personalagentprotocol.org/docs/0.3/extensions/ucp) | 1 | The company speaks the Universal Commerce Protocol: this protocol finds it and signs the user in, and the shopping happens through UCP. |
 
 ---
 

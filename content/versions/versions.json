@@ -6,6 +6,7 @@
             "extensions",
             "extensions/operations",
             "extensions/mediated-sign-in",
+            "extensions/ucp",
             "guides"
         ]
     },

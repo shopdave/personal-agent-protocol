@@ -97,6 +97,16 @@
             "permanent": false
         },
         {
+            "source": "/docs/extensions/ucp",
+            "destination": "/docs/0.3/extensions/ucp",
+            "permanent": false
+        },
+        {
+            "source": "/docs/extensions/ucp.md",
+            "destination": "/docs/0.3/extensions/ucp.md",
+            "permanent": false
+        },
+        {
             "source": "/docs/guides",
             "destination": "/docs/0.3/guides",
             "permanent": false

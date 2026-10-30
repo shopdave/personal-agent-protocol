@@ -127,6 +127,14 @@ const TABS: TabInfo[] = [
                     "A transitional way for a personal agent to sign in with credentials the user gave it, at companies that don't offer OAuth sign-in yet.",
                 outlineDepth: 2,
             },
+            {
+                slug: "extensions/ucp",
+                navTitle: "UCP",
+                title: "Personal Agent Protocol: UCP extension",
+                description:
+                    "How a company that speaks the Universal Commerce Protocol connects: this protocol finds the company and signs the user in, and the shopping happens through UCP.",
+                outlineDepth: 2,
+            },
         ],
     },
     {
